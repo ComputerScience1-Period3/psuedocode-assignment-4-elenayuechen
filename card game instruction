@@ -1,5 +1,15 @@
 Each player gets five cards. 
-Moving clockwise
-players take turns asking a specific player for a given rank of card.
-If you obtain four of a kind during game play
-those cards are removed from your hand, and you get a point. 
+put the extra cards in a deck in the center
+ask a specific person for a specific numer/letter
+if the person has the card of the number/letter:
+  obtain all cards of the number/letter
+ else if:
+  obtain the top card from the cards deck
+moving clockwise, the next player take their turns to ask for number/letters. 
+If you are being asked and have the number/letter he/she asks for:
+  give all cards of the same number/letters to the player
+If you are being asked and do not have the number/letters he/she asks for:
+  say "go fish"
+if you encounter four cards of the same number or letter:
+  lay the cards down flat on a surface and obtain a point
+The person with the most points at the end of the game wins. 
